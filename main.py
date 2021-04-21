@@ -39,7 +39,7 @@ def game_loop():
 def main():
 	print("Здравствуйте, сегодня будет бой!")
 	time.sleep(1)
-	print("Его запомнят надолго....")
+	print("Это запомниться на долго...")
 	time.sleep(2)
 	print("Нажмите ENTER что-бы начать ")
 	input()
