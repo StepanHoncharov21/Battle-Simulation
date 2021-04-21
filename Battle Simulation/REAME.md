@@ -12,5 +12,5 @@ https://www.python.org/downloads/</br>
 After that download the archive and unpack it</br>
 Find the main.py and open it
 
-<h2>Author</h2<
+<h2>Author</h2>
 Honcharov Stepan
